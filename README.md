@@ -1,6 +1,4 @@
-<center>
-    <h1>Data-Mining Techniques Assignment</h1>
-</center>
+<h1 align="center">Data-Mining Techniques Assignment</h1>
 
 This is a project created for the university course **Data-Mining Techniques**. It involves an analysis of e-commerce data using the **Amazon Product Dataset**. The project is divided into two main parts:
 1. Data exploration and feature engineering
