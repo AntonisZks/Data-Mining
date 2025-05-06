@@ -37,7 +37,7 @@ pip install -r requirements.txt
 > [!IMPORTANT]
 > It is highly recommended to use a virtual environment to manage dependencies. You can create and activate one as follows:
 > ```bash
-> python -m venv venv
+> python3 -m venv <venv-name>
 > ```
 > Activate the environment using the following commands
 > - If you are on Windows run:
