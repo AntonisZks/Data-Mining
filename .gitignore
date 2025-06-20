@@ -175,6 +175,7 @@ cython_debug/
 
 # Ignore data files
 data/
+data2/
 
 .DS_Store
 nltk_data/
